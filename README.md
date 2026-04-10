@@ -16,22 +16,11 @@ Data Science enthusiast focused on building practical machine learning solutions
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-## 🛠️ Tools & Frameworks
+## 🛠️ Skills
 
-**📊 Data Processing**  
-Pandas, NumPy  
-
-**🤖 Machine Learning**  
-Scikit-learn, XGBoost  
-
-**📈 Data Visualization**  
-Matplotlib, Seaborn  
-
-**🚀 Development**  
-Python, Git  
-
-**🧪 Currently Learning**  
-TensorFlow, Streamlit, FastAPI, Hugging Face  
-
-**💻 Environment & Tools**  
-Jupyter Notebook, Google Colab, VS Code  
+- Data Processing: Pandas, NumPy  
+- Machine Learning: Scikit-learn, XGBoost  
+- Data Visualization: Matplotlib, Seaborn  
+- Development: Python, Git  
+- Currently Learning: TensorFlow, Streamlit, FastAPI, Hugging Face  
+- Tools: Jupyter Notebook, Google Colab, VS Code  
