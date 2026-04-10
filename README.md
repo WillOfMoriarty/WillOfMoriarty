@@ -1,4 +1,4 @@
-# Hi, I'm Karel 👋
+# Hi, I'm Riel 👋
 
 Data Science enthusiast focused on building practical machine learning solutions and extracting insights from data.
 
