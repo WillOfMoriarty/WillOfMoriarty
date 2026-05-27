@@ -1,11 +1,11 @@
 # Hi, I'm Riel 👋
 
-Data Science enthusiast focused on building practical machine learning solutions and extracting insights from data.
+Data enthusiast focused on building practical machine learning solutions and extracting insights from data.
 
 - 📊 Strong foundation in Python, SQL, data analysis, and visualization  
 - 🤖 Hands-on experience with regression, classification, and clustering models  
 - 🚀 Currently learning model deployment and production workflows  
-- 🎯 Long-term goal: Data Scientist / Quantitative Analyst  
+- 🎯 Long-term goal: Data / Quantitative Analyst  
 
 ## 🛠️ Tech Stack
 
