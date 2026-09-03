@@ -5,7 +5,7 @@ Data enthusiast focused on building practical machine learning solutions and ext
 - 📊 Strong foundation in Python, SQL, data analysis, and visualization  
 - 🤖 Hands-on experience with regression, classification, and clustering models  
 - 🚀 Currently learning model deployment and production workflows  
-- 🎯 Long-term goal: Data / Quantitative Analyst  
+- 🎯 Long-term goal: Data Experts 
 
 ## 🛠️ Tech Stack
 
